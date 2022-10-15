@@ -1,0 +1,20 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "region.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "bower": "^1.8.14",
+    "cheerio": "^1.0.0-rc.12",
+    "child_process": "^1.0.2",
+    "commander": "^9.4.1",
+    "node-fetch": "^3.2.10"
+  }
+}
